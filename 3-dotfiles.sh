@@ -89,15 +89,15 @@ _installSymLink gtk-3.0 ~/.config/gtk-3.0 ~/dotfiles/gtk/gtk-3.0/ ~/.config/
 _installSymLink .Xresouces ~/.Xresources ~/dotfiles/gtk/.Xresources ~/.Xresources
 _installSymLink .icons ~/.icons ~/dotfiles/gtk/.icons/ ~/
 
-echo "-------------------------------------"
-echo "-> Install Qtile dotfiles"
-echo "-------------------------------------"
-echo ""
+#echo "-------------------------------------"
+#echo "-> Install Qtile dotfiles"
+#echo "-------------------------------------"
+#echo ""
 
-_installSymLink qtile ~/.config/qtile ~/dotfiles/qtile/ ~/.config
-_installSymLink polybar ~/.config/polybar ~/dotfiles/polybar/ ~/.config
-_installSymLink picom ~/.config/picom ~/dotfiles/picom/ ~/.config
-_installSymLink .xinitrc ~/.xinitrc ~/dotfiles/qtile/.xinitrc ~/.xinitrc
+#_installSymLink qtile ~/.config/qtile ~/dotfiles/qtile/ ~/.config
+#_installSymLink polybar ~/.config/polybar ~/dotfiles/polybar/ ~/.config
+#_installSymLink picom ~/.config/picom ~/dotfiles/picom/ ~/.config
+#_installSymLink .xinitrc ~/.xinitrc ~/dotfiles/qtile/.xinitrc ~/.xinitrc
 
 echo "-------------------------------------"
 echo "-> Install Hyprland dotfiles"
