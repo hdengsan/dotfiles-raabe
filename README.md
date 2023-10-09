@@ -1,4 +1,7 @@
+#These are not mine. they belong to Stephan Raabe. I like them and I wanted to preserve them the way they are and maybe change them a little to work for my laptop. All credit to Stephan Raabe for these awesome files. 
+
 # ML4W dotfiles
+
 
 This is the configuration of my Arch linux based installation.
 I'm using the Hyprland (Wayland) and Qtile (Xorg).
