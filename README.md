@@ -1,4 +1,5 @@
-#These are not mine. they belong to Stephan Raabe. I like them and I wanted to preserve them the way they are and maybe change them a little to work for my laptop. All credit to Stephan Raabe for these awesome files. 
+#These are not mine. they belong to Stephan Raabe. I like them and I wanted to preserve them the way they are and maybe change them a little to work for my laptop. All credit to Stephan Raabe for these awesome files. My other repo on hyprland dotfiles is basically these files but with a few changes. I plan do a lot of changes on them but it's all thanks to this repo by Stephan.
+
 
 # ML4W dotfiles
 
